@@ -1,8 +1,4 @@
-- 👋 Olá! Sou a Rafa!
-- 👀 Nerd 24/7. Curiosa de plantão.
-- 🌱 Javascript | C
-- 📚 Li.Computação - IFRJ
-- 📫 rafaellaakerman@gmail.com
+## 👋 Olá! Sou a Rafa!
 
 <div align="center">
   <a href="https://github.com/rafaakerman">
@@ -18,4 +14,4 @@
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
-    ![Snake animation](https://github.com/rafaakerman/rafaakerman/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaakerman/rafaakerman/blob/output/github-contribution-grid-snake.svg)
