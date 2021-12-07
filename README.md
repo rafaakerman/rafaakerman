@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaakerman">
-  <img width="48%" src="https://github-readme-stats-iota-three-44.vercel.app/api?username=rafaakerman&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats-iota-three-44.vercel.app/api/top-langs/?username=rafaakerman&layout=compact&langs_count=7&theme=kacho_ga"/>
+  <img width="48%" src="https://github-readme-stats-rafaakerman.vercel.app/api?username=rafaakerman&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats-rafaakerman.vercel.app/api/top-langs/?username=rafaakerman&layout=compact&langs_count=7&theme=kacho_ga"/>
 </div>
 
   <div style="display: inline_block"><br>
